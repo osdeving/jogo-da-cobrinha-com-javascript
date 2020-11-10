@@ -3,8 +3,8 @@
 Esse projetinho faz parte do bootcamp **HTML Web Developer** na plataforma da **Digital Innovation One**
 &nbsp;
 O projeto tá bem cru, tenho mais dois projetos de 'jogo da cobrinha', curiosamente o mais completo deles é o feito em linguagem Assembly! Configura:
-https://github.com/osdeving/asm-snake
-https://github.com/osdeving/python-exercise-snake
+- https://github.com/osdeving/asm-snake
+- https://github.com/osdeving/python-exercise-snake
 
 ### Tecnologias
 
